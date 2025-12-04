@@ -1,5 +1,5 @@
 {
-  "name": "fork-ts-checker-webpack-plugin",
+  "name": "@koolmonke/fork-ts-checker-webpack-plugin",
   "version": "0.0.0-semantic-release",
   "description": "Runs typescript type checker and linter on separate process.",
   "keywords": [
